@@ -1,0 +1,9 @@
+body{
+    padding-top: 4em;
+    background-color: #F5F8FA;
+}
+
+/*Nav*/
+.navbar-brand img{
+    height: 100%;
+}

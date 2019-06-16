@@ -25,3 +25,23 @@ nav form#search .glyphicon-search{
 nav form#search .input-group .form-control:first-child{
     border-radius: 0.25em;
 }
+
+/*Drop Down*/
+#nav-options{
+    margin: 0.5em;
+}
+
+#nav-options button.thumbnail{
+    margin: 0;
+    padding: 0;
+}
+
+#nav-options img{
+    max-height: 2.3em;
+    border-radius: 0.3em;
+}
+
+/*Btn Tweet*/
+#tweet{
+    margin: 0.5em;
+}
